@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\rklem\OneDrive\Рабочий стол\Laba 22\Laba 22\Source.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\rklem\OneDrive\Рабочий стол\Laba 22\Laba 22\Source.cpp(37,9): warning C4129: %: неизвестная escape-последовательность
+C:\Users\rklem\OneDrive\Рабочий стол\Laba 22\Laba 22\Source.cpp(49,9): warning C4129: %: неизвестная escape-последовательность
+  Laba 22.vcxproj -> C:\Users\rklem\OneDrive\Рабочий стол\Laba 22\x64\Debug\Laba 22.exe
